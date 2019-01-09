@@ -1,8 +1,8 @@
 # Online-Law-System
 
-The project online law system is a portal that contains all the laws of IPC so that people can search for the law for respective crime
-There is also search option available where user can find or search according to his requirement by entering his query.
-Feedback of the complain will be provided in the form of email
+Online Law System is a portal that contains all the laws of IPC so that people can search laws for respective crimes.
+There is a search option available where user can find or search according to his/her requirement by entering query.
+Feedback of the complain will be provided in the form of email.
 
 
 ### Major Functionalities:
@@ -17,4 +17,4 @@ Feedback of the complain will be provided in the form of email
 3. Users can lodge a complain (Complain form)
 4. Users can provide a feedback
 
-#### Technology used : Bootstrap,PHP,MySQL
+#### Technology used : Bootstrap,AJAX,PHP,MySQL
